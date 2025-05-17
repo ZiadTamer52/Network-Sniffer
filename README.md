@@ -38,3 +38,7 @@ Date Created: May 1, 2025
 
 ⚠️ Disclaimer
 Use this tool responsibly and only on networks you own or have explicit permission to monitor.
+
+## 📜 License
+
+This project is released under the MIT License [Here](LICENSE).
