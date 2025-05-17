@@ -31,10 +31,10 @@ Run as Administrator or with root privileges to capture all packets.
 
 This script prints live network activity to the console—ideal for educational or diagnostic purposes.
 
-👤 Author
-Ziad Tamer
+### 👤 Author
+Ziad Tamer (ZiadTamer52)
 
-Date Created: May 1, 2025
+* Date Created: May 1, 2025
 
 ⚠️ Disclaimer
 Use this tool responsibly and only on networks you own or have explicit permission to monitor.
